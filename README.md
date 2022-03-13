@@ -1,1 +1,1 @@
-# SQL-Guided-Project-1
+# Chinook Database Analysis Using SQLite
